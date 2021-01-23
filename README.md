@@ -5,6 +5,9 @@ game in a browser, that lets you increase its knowledge
 by adding new answers if it doesn't guess the thing you 
 were thinking right.
 
+<p float="left">
+    <img src="https://github.com/neczpal/barkoba/raw/master/screenshot.png" width="400" />
+</p>
 
 ## Objective
 Think of a thing and let the app find out what you were thinking.
