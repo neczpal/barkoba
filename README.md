@@ -2,8 +2,8 @@
 
 [Twenty questions](https://en.wikipedia.org/wiki/Twenty_questions)
 game in a browser, that lets you increase its knowledge
-by adding new answers if it doesn't guess the thing you 
-were thinking right.
+by adding new answers if it doesn't guess right the thing you 
+were thinking.
 
 <p float="left">
     <img src="https://github.com/neczpal/barkoba/raw/master/screenshot.png" width="400" />
@@ -18,7 +18,7 @@ Think of a thing and let the app find out what you were thinking.
 
 ## License
 
-All Rights Reserved.
+MIT
 
 Copyright (c) 2021 Neczpál Ábel.
 
@@ -31,4 +31,4 @@ however, please contact me before doing so.
 
 Neczpál Ábel - [neczpal@gmail.com](mailto:neczpal@gmail.com)
 
-Project Link: [https://github.com/neczpal/barkoba](https://github.com/neczpal/barkoba)
+Project Link - [https://github.com/neczpal/barkoba](https://github.com/neczpal/barkoba)
